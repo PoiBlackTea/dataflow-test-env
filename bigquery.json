@@ -1,0 +1,23 @@
+[
+    {
+        "name": "id",
+        "mode": "",
+        "type": "INTEGER",
+        "description": null,
+        "fields": []
+    },
+    {
+        "name": "first",
+        "mode": "",
+        "type": "INTEGER",
+        "description": null,
+        "fields": []
+    },
+    {
+        "name": "second_column",
+        "mode": "",
+        "type": "INTEGER",
+        "description": null,
+        "fields": []
+    }
+]
